@@ -5,11 +5,14 @@ This project was done during my time studying in the CS 340: Machine Learning co
 
 ## Contents
 
-In this repo you will find working implementations of Naive Bayes, PCA (Robust, Alternative), MDS, ISOMAP using k-nearest neighbours. All code is written in Python 3.6. Sklearn's classifiers were also used here. 
+In this repo you will find working implementations of Naive Bayes, PCA (Robust, Alternative), MDS, ISOMAP using k-nearest neighbours. All code is written in Python 3.6. Sklearn's classifiers were also used here.
 
 ## Dependencies
 
-
+- numpy
+- Sklearn
+- scipy
+- matplotlib
 
 ## Running the project
 
